@@ -1,12 +1,12 @@
 {
-  "name": "electron-react-tailwind-template",
+  "name": "git-pipeline",
   "author": {
-		"email": "mail@example.com",
-		"name": "your name"
+		"email": "ren.fujii@kms3.com",
+		"name": "Ren Fujii"
 	},
   "license": "MIT",
   "version": "1.0.0",
-  "description": "Electron app template with React and Tailwind CSS.",
+  "description": "AssetTeams git controll pipeline tool",
   "main": "src/main/main.js",
   "scripts": {
     "start": "electron .",
@@ -14,8 +14,8 @@
     "build": "webpack --config webpack.config.js && electron-builder"
   },
   "build": {
-    "appId": "com.example.electron-react-tailwind-template",
-    "productName": "electron-react-tailwind-template",
+    "appId": "com.example.git-pipeline",
+    "productName": "git-pipeline",
     "directories": {
       "output": "dist"
     },
