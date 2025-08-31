@@ -14,4 +14,4 @@ This is a simple template for using React and TailwindCSS with Electron.
 ## Contact
 - Mail: amagami.dev@gmail.com
 - Discord: https://discordapp.com/users/405449908695334914
-- X: https://x.com/trrr_te
+- X: https://x.com/nil__dev
